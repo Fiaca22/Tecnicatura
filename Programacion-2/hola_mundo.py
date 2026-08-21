@@ -1,0 +1,1 @@
+print("¡Hola! Ya tengo Python configurado en Ubuntu.")
