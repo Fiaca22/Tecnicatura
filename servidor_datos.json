@@ -1,0 +1,16 @@
+{
+    "integrantes": [
+        "Alfonso",
+        "Andres",
+        "Gianfranco",
+        "Juan"
+    ],
+    "saldos": {
+        "Alfonso": -1.25,
+        "Andres": 23.75,
+        "Gianfranco": -6.25,
+        "Juan": -76.25
+    },
+    "valor_pc": 300.0,
+    "caja_efectivo": 10.0
+}
