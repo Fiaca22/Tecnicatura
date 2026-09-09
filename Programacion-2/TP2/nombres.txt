@@ -1,0 +1,10 @@
+1003;Alvarez;Lucia
+1007;Benitez;Tomas
+1001;Gomez;Martin
+1008;Lopez;Sofia
+1005;Martinez;Elena
+1002;Perez;Juan
+1010;Rodriguez;Diego
+1006;Sosa;Camila
+1009;Torres;Valeria
+1004;Vega;Agustin
